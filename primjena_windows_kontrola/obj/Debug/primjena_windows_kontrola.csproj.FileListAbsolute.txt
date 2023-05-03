@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\bin\Debug\primjena_windows_kontrola.exe.config
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\bin\Debug\primjena_windows_kontrola.exe
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\bin\Debug\primjena_windows_kontrola.pdb
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.Form1.resources
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.exe
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.pdb
+C:\Users\ucenik\source\repos\primjena_windows_kontrola\primjena_windows_kontrola\obj\Debug\primjena_windows_kontrola.FormaText.resources
